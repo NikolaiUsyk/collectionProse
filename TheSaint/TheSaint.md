@@ -1,6 +1,8 @@
 ---
 title: The Saint
 author: Nikolai Usyk
+fontsize: 10pt
+font: Helvetica
 ---
 
 Every year since Sean was born he had attended a funeral. The impressive odor of fresh flowers and dewy broken ground were as familiar to him as the squeaky chime of a swing set. He had seen eight related bodies, uncles, aunts, grand and god parents, laid out pale in their pillowed boxes. He didn’t remember them all though; the first followed quick on his christening. His parents had taken him to the sad ceremony in swaddling clothes praying he wouldn’t shriek. His knowledge of mortality grew with his limbs. On his fourth birthday in the same long carpeted hall, he asked why his grandmother wouldn’t wake up. They told him she was just very tired. But as each successive relative was laid in the box, never to be seen again the truth became evident. By the time Sean was seven he understood that even his fresh skin would one day stiffen  and  be buried. He was horrified  when  he fully grasped  the consequence that one day he would cease to exist when he had only begun to exist. He couldn’t understand not being. It made life seem like a big awful joke. Then he grasped the afterlife which his parents and teachers were always impressing upon him especially at funerals. Suddenly death wasn’t the end, and his grandmother did wake up, just somewhere else. The good go off to live with God in Heaven where everything is the best that it could possibly be. This made life seem less like a joke and more like a test, a test that he was determined to pass.

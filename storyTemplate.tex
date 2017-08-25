@@ -13,13 +13,16 @@ top=1.in,
 bottom=1.in]{geometry}
 \setlength{\footskip}{.5in}
 
-\title{The Saint}
-\author{Nikolai Usyk}
-\date{}
+$if(title-meta)$
+pdftitle={$title-meta$},
+$endif$
+$if(author-meta)$
+pdfauthor={$author-meta$},
+$endif$
 
 \pagestyle{fancy}
 \fancyhf{}
-\chead{The Saint}
+\chead{pdftitle}
 \fancyfoot[C]{\thepage}
 
 \setlength{\droptitle}{-30pt}
